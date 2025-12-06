@@ -1,0 +1,11 @@
+C:\Users\32274\source\repos\FireRobot\FireRobot\bin\Debug\FireRobot.exe.config
+C:\Users\32274\source\repos\FireRobot\FireRobot\bin\Debug\FireRobot.exe
+C:\Users\32274\source\repos\FireRobot\FireRobot\bin\Debug\FireRobot.pdb
+C:\Users\32274\source\repos\FireRobot\FireRobot\obj\Debug\FireRobot.csproj.AssemblyReference.cache
+C:\Users\32274\source\repos\FireRobot\FireRobot\obj\Debug\FireRobot.Form1.resources
+C:\Users\32274\source\repos\FireRobot\FireRobot\obj\Debug\FireRobot.Properties.Resources.resources
+C:\Users\32274\source\repos\FireRobot\FireRobot\obj\Debug\FireRobot.csproj.GenerateResource.cache
+C:\Users\32274\source\repos\FireRobot\FireRobot\obj\Debug\FireRobot.csproj.CoreCompileInputs.cache
+C:\Users\32274\source\repos\FireRobot\FireRobot\obj\Debug\FireRobot.exe
+C:\Users\32274\source\repos\FireRobot\FireRobot\obj\Debug\FireRobot.pdb
+C:\Users\32274\source\repos\FireRobot\FireRobot\obj\Debug\FireRobot.exe.config
